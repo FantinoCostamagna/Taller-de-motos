@@ -1,0 +1,11 @@
+C:\Users\Fanti\source\repos\Consola\bin\Release\Consola.exe.config
+C:\Users\Fanti\source\repos\Consola\bin\Release\Consola.exe
+C:\Users\Fanti\source\repos\Consola\bin\Release\Consola.pdb
+C:\Users\Fanti\source\repos\Consola\bin\Release\Newtonsoft.Json.dll
+C:\Users\Fanti\source\repos\Consola\bin\Release\Newtonsoft.Json.xml
+C:\Users\Fanti\source\repos\Consola\obj\Release\Consola.csproj.AssemblyReference.cache
+C:\Users\Fanti\source\repos\Consola\obj\Release\Consola.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fanti\source\repos\Consola\obj\Release\Consola.csproj.CoreCompileInputs.cache
+C:\Users\Fanti\source\repos\Consola\obj\Release\Consola.csproj.CopyComplete
+C:\Users\Fanti\source\repos\Consola\obj\Release\Consola.exe
+C:\Users\Fanti\source\repos\Consola\obj\Release\Consola.pdb

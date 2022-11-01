@@ -1,0 +1,17 @@
+C:\Users\Fanti\source\repos\Taller de motos\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Fanti\source\repos\Taller de motos\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Fanti\source\repos\Taller de motos\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Fanti\source\repos\Taller de motos\WindowsFormsApp1\bin\Debug\Logica.dll
+C:\Users\Fanti\source\repos\Taller de motos\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Fanti\source\repos\Taller de motos\WindowsFormsApp1\bin\Debug\Logica.pdb
+C:\Users\Fanti\source\repos\Taller de motos\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Fanti\source\repos\Taller de motos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Fanti\source\repos\Taller de motos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fanti\source\repos\Taller de motos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Fanti\source\repos\Taller de motos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Fanti\source\repos\Taller de motos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Fanti\source\repos\Taller de motos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Fanti\source\repos\Taller de motos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Fanti\source\repos\Taller de motos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Fanti\source\repos\Taller de motos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.PantallaLogin.resources
+C:\Users\Fanti\source\repos\Taller de motos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.PantallaCargaInicio.resources

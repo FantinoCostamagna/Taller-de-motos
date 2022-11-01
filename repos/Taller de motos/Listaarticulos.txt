@@ -1,0 +1,1 @@
+[{"ID_Articulo":1,"Cantidad":344,"Tipo":"aceite","descripcionArticulo":"nada"}]

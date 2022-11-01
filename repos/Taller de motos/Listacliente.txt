@@ -1,0 +1,1 @@
+[{"ID_Cliente":10,"Nombre":"FLY","DNI":"44766434","Correo":"tomi.franc@live.com","Telefono":"3493417510","Direccion":"25 DE MAYO 14","fechaNacimiento":"09/05/2022"},{"ID_Cliente":4,"Nombre":"Fantino Mateo Costamagna","DNI":"44234740","Correo":"Costamagnafantino@gmail.com","Telefono":"349315407824","Direccion":"Alem 1019","fechaNacimiento":"01/09/2002"}]

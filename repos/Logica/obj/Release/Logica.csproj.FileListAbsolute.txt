@@ -1,0 +1,9 @@
+C:\Users\Fanti\source\repos\Logica\bin\Release\Logica.dll
+C:\Users\Fanti\source\repos\Logica\bin\Release\Logica.pdb
+C:\Users\Fanti\source\repos\Logica\bin\Release\Newtonsoft.Json.dll
+C:\Users\Fanti\source\repos\Logica\bin\Release\Newtonsoft.Json.xml
+C:\Users\Fanti\source\repos\Logica\obj\Release\Logica.csproj.AssemblyReference.cache
+C:\Users\Fanti\source\repos\Logica\obj\Release\Logica.csproj.CoreCompileInputs.cache
+C:\Users\Fanti\source\repos\Logica\obj\Release\Logica.csproj.CopyComplete
+C:\Users\Fanti\source\repos\Logica\obj\Release\Logica.dll
+C:\Users\Fanti\source\repos\Logica\obj\Release\Logica.pdb
